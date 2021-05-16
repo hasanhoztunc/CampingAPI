@@ -6,4 +6,7 @@ DerivedData/
 .DS_Store
 db.sqlite
 .swiftpm
+myjwt.key
+myjwt.key.pub
+.env.development
 
